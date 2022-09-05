@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bookshare-staging-71400-authRole",
+      "UnauthRoleArn": "arn:aws:iam::210358070012:role/amplify-bookshare-staging-71400-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::210358070012:role/amplify-bookshare-staging-71400-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bookshare-staging-71400-deployment",
+      "UnauthRoleName": "amplify-bookshare-staging-71400-unauthRole",
+      "StackName": "amplify-bookshare-staging-71400",
+      "StackId": "arn:aws:cloudformation:us-east-1:210358070012:stack/amplify-bookshare-staging-71400/50b98ba0-2cea-11ed-b53b-0a15ba0f3965",
+      "AmplifyAppId": "d1wtfo89eu9tjq"
+    },
+    "categories": {
+      "auth": {
+        "bookshare": {}
+      }
+    }
+  }
+}
